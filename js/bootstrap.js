@@ -1,4 +1,4 @@
-var appVersion = '1.02';
+var appVersion = '1.01';
 
 var store = window.localStorage;
 //var domain = 'www.edu-20.com';
@@ -53,7 +53,7 @@ var canGoForward = false;
 var wentBack = false;
 var wentForward = false;
 var API = {};
-var androidSenderID = "1061568968505";
+var androidSenderID = "397678941918";
 var originalHeight = $(window).height();
 var originalWidth = $(window).width();
 var loadingOverlayTimeoutAmount = 2000;
